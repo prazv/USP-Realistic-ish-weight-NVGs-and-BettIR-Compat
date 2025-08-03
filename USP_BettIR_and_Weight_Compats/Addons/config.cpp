@@ -411,134 +411,268 @@ class CfgWeapons
 	
     class USP_NSEAS: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
    class USP_GPNVG18_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB2_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB2_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB2_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB3_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_CB3_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_GM_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB2_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB3_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_CB3_TAR_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_GPNVG18_WP_GM_BLK: NVGoggles
     {
-        mass = 24;
+        class ItemInfo
+        {
+            mass = 24;
+        };
+
     };
     class USP_PVS14: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS14_WP: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS15: NVGoggles
     {
-        mass = 20;
+        class ItemInfo
+        {
+            mass = 20;
+        };
+
     };
     class USP_PVS15_WP: NVGoggles
     {
-        mass = 20;
+        class ItemInfo
+        {
+            mass = 20;
+        };
+
     };
     class USP_PVS31_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_HIGH_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_LOW_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_MID_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_MONOL_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_MONOR_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_HIGH_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_LOW_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_MID_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_MONOL_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
     class USP_PVS31_WP_MONOR_BLK: NVGoggles
     {
-        mass = 16;
+        class ItemInfo
+        {
+            mass = 16;
+        };
+
     };
+};
+
 };
