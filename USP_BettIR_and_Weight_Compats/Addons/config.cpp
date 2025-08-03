@@ -18,7 +18,7 @@ class BettIR_Config
 {
 	class CompatibleNightvisionGoggles
 	{
-		class __base_NVG;
+	class __base_NVG;
         class USP_NSEAS: __base_NVG
 		{
 		};
@@ -676,3 +676,4 @@ class CfgWeapons
 };
 
 };
+
