@@ -1273,12 +1273,20 @@ class CfgWeapons
 			mass = 16;
 		};
 	};
+	class USP_PVS31_WP_MID_BLK2: NVGoggles
+	{
+		class ItemInfo
+		{
+			mass = 16;
+		};
+	};
 };
 class cfgMods
 {
 	author="prazv";
 	timepacked="1754213124";
 };
+
 
 
 
